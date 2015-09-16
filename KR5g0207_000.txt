@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 03:00:00.198995
 #+TITLE: 大乘妙林經
-#+DATE: 2015-08-29 03:00:04
+#+PROPERTY: DZID  DZ1398
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，34—254 三卷 正一部
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
