@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 大乘妙林經
+#+DATE: 2015-08-29 03:00:04
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: JUAN 0
+
+
